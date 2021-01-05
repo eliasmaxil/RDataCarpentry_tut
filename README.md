@@ -1,2 +1,2 @@
-# R_data-crpentry
+# R_data-carpentry
 Notes of R course from data-carpentry
